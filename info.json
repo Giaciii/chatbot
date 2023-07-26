@@ -1,0 +1,12 @@
+[
+  {
+    "id": 0,
+    "anfrage": ["hi", "hallo", "guten tag"],
+    "antwort": ["Hi", "Hallo", "Guten Tag"]
+  },
+  {
+    "id": 1,
+    "anfrage": ["ciao", "tschüss"],
+    "antwort": ["Ciao", "Tschüss"]
+  }
+]
